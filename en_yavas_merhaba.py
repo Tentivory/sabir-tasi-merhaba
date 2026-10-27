@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # Dünyanın en yavaş Merhaba Dünya programı
 # Sabır taşını çatlatmak için tasarlandı.
-# Gizli not: Bazı şeyler göründüğünden daha derindir. (base64: SGVya2VzIGljaW4gZmlrcmkgdmFybGFyLCBhbWEgZ2VyY2VrIGtvbGxl a3RpZiBvdGx1cm11c2h0dXIu ) 
+# Gizli not: Bazı şeyler göründüğünden daha derindir. (base64: U2l5YXNldCB5YXZhxZ90xLFyIGFtYSBoZXJrZXNpbiBmaWtyaSDtb25lbWxpZGlyLg== ) 
+# Çözersen görürsün.
 
 import time
 import sys
